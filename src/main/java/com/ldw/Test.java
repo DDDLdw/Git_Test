@@ -9,5 +9,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("father");
         System.out.println("mother");
+        System.out.println("[[[[[[[[[");
     }
 }
